@@ -1,0 +1,21 @@
+body {
+    background-color: #d9f4ff;
+    text-align: center;
+}
+
+.btn-custom-primary {
+    background-color: #ff9b01;
+    color: white;
+}
+
+.custom-primary-text {
+    color: #ff9b01;
+}
+
+.car-background {
+    background-image: url('./DJI_0085.jpg');
+}
+
+select {
+    height: auto !important;
+}
